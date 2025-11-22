@@ -7,4 +7,4 @@ When you want to build app to ipa (for apple device) you can use this project an
 You should know github workflow.
 then create respository of your project in github (Definitely public) and  copy and paste {{.github/workflows}} file from my project to your project then use github Actions to build ipa file
 you must to know it is unsigned ipa file and just install on  Jailbreak apple device.
-if you want to sign your app buy apple developer and use another services.
+If you want to sign your app buy apple developer and use another services.
