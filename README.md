@@ -1,7 +1,7 @@
 # app_1
 
-A new Flutter project.
-
+This project for flutter github action.
+When you want to build app for ipa project you can use this project and copy paste file in your project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
