@@ -1,7 +1,7 @@
 # app_1
 
 This project for flutter github action.
-When you want to build app for ipa project you can use this project and copy paste file in your project.
+When you want to build app for ipa project you can use this project and copy & paste {{.github/workflows}} file in your project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
